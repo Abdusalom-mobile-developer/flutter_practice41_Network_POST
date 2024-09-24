@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice41_network_post/database/network_data.dart';
 import 'package:flutter_practice41_network_post/mixins/widgets.dart';
 import 'package:flutter_practice41_network_post/screens/home.dart';
 import 'package:flutter_practice41_network_post/services/requests.dart';
